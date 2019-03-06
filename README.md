@@ -1,3 +1,8 @@
+
+
+
+### This code is associated with the paper from Pittayakanchit et al., "Biophysical clocks face a trade-off between internal and external noise resistance". eLife, 2018. http://dx.doi.org/10.7554/eLife.37624
+
 # Biophysical clocks face a trade-off between internal and external noise resistance
 
 This repository provides the code to do the simulations we have in the paper (Biophysical clocks face a trade-off between internal and external noise resistance). Folders are divided according to the figures that the code generates.
